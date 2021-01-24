@@ -1,0 +1,65 @@
+p{
+    color: lightskyblue;
+}
+
+h1 {
+    color: darkslategrey;
+}
+
+
+body {
+    background-color: dimgray;
+
+}
+li{
+    list-style-type: square;
+    margin: 3px;
+    padding: 3px;
+}
+a {
+    background-color: darkgreen;
+    color: crimson;
+    text-decoration: none;
+}
+ul{
+    /* Make background of unordered list gray. */
+    background-color: grey;
+}
+#favorite-movie-name{
+    color: crimson;
+
+}
+#favorite-music-name{
+    color: darkorange;
+}
+.favorite-image{
+    border-radius:25px;
+
+;
+}
+#most-favorite{
+    background-color: cyan;
+
+}
+.section-header{
+    background-color:lightslategray;
+}
+.second-favorite{
+    background-color: lightsteelblue;
+}
+#page-title {
+    text-shadow: 10px 10px darkcyan;
+}
+
+table, tr, th, td {
+
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th{
+    background-color: cornflowerblue;
+}
+td{
+    background-color: aqua;
+    width: 33%;
+}
